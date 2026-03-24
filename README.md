@@ -18,3 +18,6 @@
 5. [Архитектура AArch64 и язык ассемблера](practice/aarch64)
 6. [Архитектура AArch64 - стек и вызов функций](practice/aarch64-functions)
 7. [Архитектура x86-64 и язык ассемблера](practice/x86-64)
+8. [Системные вызовы](practice/asm/nostdlib_baremetal/)
+9. [Низкоуровневый файловый ввод и вывод](practice/file_io/)
+10. [Аттрибуты файлов и файловых дескрипторов](practice/stat_fcntl/)
